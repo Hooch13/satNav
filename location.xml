@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<State>Alabama
+</State>
+<State>Alaska
+</State> 
+<State>Arizona
+</State>
+<State>Arkansas
+</State>
+<State>California
+</State>
+<State>Colorado 
+</State>
+<State>Connecticut
+</State>
+<State>Delaware
+</State>
+<State>Florida 
+</State>
+<State>Georgia
+</State> 
+<State>Hawaii 
+</State>
+<State>Idaho
+</State>
+<State>Illinois 
+</State>
+<State>Indiana
+</State> 
+<State>Iowa
+</State> 
+<State>Kansas
+</State> 
+<State>Kentucky
+	<City>Lexington
+		<Street>Georgetown
+			<Number>101
+			</Number>
+			<Number>102
+			</Number>
+			<Number>103
+			</Number>
+			<Number>104
+			</Number>
+			<Number>105
+			</Number>			
+		</Street>
+		<Street>Euclid
+			<Number>101
+			</Number>
+			<Number>102
+			</Number>
+			<Number>103
+			</Number>
+			<Number>104
+			</Number>
+			<Number>105
+			</Number>	
+		</Street>
+		<Street>West-Main
+			<Number>101
+			</Number>
+			<Number>102
+			</Number>
+			<Number>103
+			</Number>
+			<Number>104
+			</Number>
+			<Number>105
+			</Number>	
+		</Street>
+		<Street>East-Main
+			<Number>101
+			</Number>
+			<Number>111
+			</Number>
+			<Number>112
+			</Number>
+			<Number>102
+			</Number>
+			<Number>103
+			</Number>
+			<Number>104
+			</Number>
+			<Number>105
+			</Number>	
+		</Street>
+		<Street>Leestown
+			<Number>101
+			</Number>
+			<Number>102
+			</Number>
+			<Number>103
+			</Number>
+			<Number>104
+			</Number>
+			<Number>105
+			</Number>	
+		</Street>
+	</City>	
+	<City>Louisville
+		<Street>
+		</Street>
+	</City>
+	<City>London
+		<Street>
+		</Street>
+	</City>
+	<City>Bowling Green
+		<Street>
+		</Street>
+	</City>
+	<City>Frankfort
+		<Street>
+		</Street>
+	</City>
+	<City>Paducah
+		<Street>
+		</Street>
+	</City>
+	<City>Owensboro
+		<Street>
+		</Street>
+	</City>
+	<City>Richmond
+		<Street>
+		</Street>
+	</City>
+	<City>Florence
+		<Street>
+		</Street>
+	</City>
+	<City>Covington
+		<Street>
+		</Street>
+	</City>
+</State> 
+<State>Louisiana
+</State> 
+<State>Maine
+</State> 
+<State>Maryland
+</State> 
+<State>Massachusetts
+</State> 
+<State>Michigan 
+</State>
+<State>Minnesota 
+</State>
+<State>Mississippi 
+</State>
+<State>Missouri 
+</State>
+<State>Montana 
+</State>
+<State>Nebraska 
+</State>
+<State>Nevada 
+</State>
+<State>New Hampshire 
+</State>
+<State>New Jersey 
+</State>
+<State>New Mexico 
+</State>
+<State>New York 
+</State>
+<State>North Carolina 
+</State>
+<State>North Dakota 
+</State>
+<State>Ohio 
+</State>
+<State>Oklahoma 
+</State>
+<State>Oregon
+</State> 
+<State>Pennsylvania
+</State>
+<State>Rhode Island 
+</State>
+<State>South Carolina 
+</State>
+<State>South Dakota 
+</State>
+<State>Tennessee 
+</State>
+<State>Texas 
+</State>
+<State>Utah 
+</State>
+<State>Vermont 
+</State>
+<State>Virginia 
+</State>
+<State>Washington 
+</State>
+<State>West Virginia 
+</State>
+<State>Wisconsin 
+</State>
+<State>Wyoming
+</State>
